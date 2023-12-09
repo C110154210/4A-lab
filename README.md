@@ -2,32 +2,7 @@
 
 # AICUP
 
-Description
-
-
-<!-- PROJECT LOGO -->
-<br />
-
-<p align="center">
-  <h3 align="center">README範本</h3>
-  <p align="center">
-    一個"完美的"README範本去快速開始你的專案！
-    <br />
-    <a href="https://github.com/your_github_name/your_repository"><strong>探索本專案的文檔 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your_github_name/your_repository">查看Demo</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">報告Bug</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">提出新特性</a>
-  </p>
-
-</p>
-
-
- 本篇README.md面向開發者
- 
+  
 ## 目錄
 
 - [上手指南](#上手指南)
@@ -40,24 +15,14 @@ Description
 - [版本控制](#版本控制)
 
 ### 上手指南
-
-“/your_github_name/your_repository”
-
-
-
+將ipynb檔在Colab上開啟
 ###### 開發前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+有Colab
 
 ###### **安裝步驟**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
 
-```sh
-git clone https://github.com/your_github_name/your_repository.git
-```
 
 ### 檔目錄說明
 eg:
