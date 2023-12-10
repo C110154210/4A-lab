@@ -5,14 +5,11 @@
   
 ## 目錄
 
-- [上手指南](#上手指南)
-  - [開發前的配置要求](#開發前的配置要求)
-  - [安裝步驟](#安裝步驟)
-- [檔目錄說明](#檔目錄說明)
-- [開發的架構](#開發的架構)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
-- [版本控制](#版本控制)
+- [上手指南]
+  - [開發前的配置要求]
+  - [安裝步驟]
+- [檔目錄說明]
+- [作者]
 
 ### 上手指南
 將ipynb檔在Colab上開啟
@@ -22,63 +19,32 @@
 
 ###### **安裝步驟**
 
-
+將檔案在Colabg上開啟
 
 ### 檔目錄說明
-eg:
 
 ```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
-
+├── 使用模型.ipynb
+├──4_AICUP_Pythia_160m」訊練模型.ipynb
+├──訓練集.tsv
 ```
-
-
-
-
-
-### 開發的架構 
-
-請閱讀……
-
-### 部署
-
-暫無
-
-### 使用到的框架
-
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
-
-
-### 版本控制
-
-該專案使用Git進行版本管理。您可以在repository參看當前可用版本。
+###使用說明
+├──4_AICUP_Pythia_160m」訊練模型.ipynb
+設定訓練集路徑
+設定模型存取路徑
+從頭執行到尾就可以得出訓練好的模型
+├── 使用模型.ipynb
+訓練完成後就可使用
+設定文本路徑
+設定在入模型路徑
+從頭執行到尾就可得出解答
 
 ### 作者
 
-xxx@xxxx
+C110154210@nkust.edu.tw
 
- *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
+有問題請至該信箱去罵人
 
-### 版權說明
-
-該項目簽署了MIT 授權許可，詳情請參閱 [LICENSE.txt](https://github.com/your_github_name/your_repository/blob/master/LICENSE.txt)
 
 
 
